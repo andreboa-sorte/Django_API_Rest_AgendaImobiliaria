@@ -8,7 +8,7 @@
 * pytz 2021.1
 * sqlparse 0.4.2
 
-**Qual é o Admin?**
+**Qual é o Admin?** <br>
 User = user <br>
 Email = '' <br>
 Senha = qwerty <br>
