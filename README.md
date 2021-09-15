@@ -1,5 +1,12 @@
 # Django_API_Rest_AgendaImobiliaria
 
+### Vídeo mostrando o codigo
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/bBalsMWKDlY/mq2.jpg?sqp=COzuiYoG&rs=AOn4CLBPAymuIlrD4hQpIcYb03pMrjIJ_A)](https://youtu.be/bBalsMWKDlY) 
+<br>
+*(Clique na imamge para ser redirecionado)*
+
+***
+
 **Itens ultilizados e versoniamentos:**
 * Python 3.9.0
 * asgiref 3.4.1
@@ -8,7 +15,7 @@
 * pytz 2021.1
 * sqlparse 0.4.2
 
-**Qual é o Admin?** <br>
+**Qual é o usuario e senha do Admin?** <br>
 User = user <br>
 Email = '' <br>
 Senha = qwerty <br>
@@ -21,6 +28,7 @@ Dentro do codigo, posue a <strong>venv</strong> com os intens instalados.
 <strong>Como faço para funcionar o codigo?</strong>
 * Basta baixar ou clonar o codigo, depois abrir em uma IDE e dentro do terminar dar o comando **python manage.py startserver**.<br> 
 * Depois basta entrar na porta do Local Host e assesar a API.
+
 
 
 
