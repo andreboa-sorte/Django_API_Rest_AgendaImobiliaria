@@ -9,9 +9,9 @@
 * sqlparse 0.4.2
 
 **Qual é o Admin?**
-User = user
-Email = ''
-Senha = qwerty
+User = user <br>
+Email = '' <br>
+Senha = qwerty <br>
 
 **Preciso baixar algo?**<br>
 Somente é necessario ter o Python instalado e uma IDE de sua preferencia.<br>
