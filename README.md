@@ -2,10 +2,14 @@
 
 ### Aplicação Django com API Rest Framework de uma Agencia Imobiliária.
 
-### Vídeo mostrando o codigo
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/bBalsMWKDlY/mq2.jpg?sqp=COzuiYoG&rs=AOn4CLBPAymuIlrD4hQpIcYb03pMrjIJ_A)](https://youtu.be/bBalsMWKDlY) 
-<br>
-*(Clique na imamge para ser redirecionado)*
+<div align="center">
+  
+  ### Vídeo mostrando o codigo
+  [![IMAGE ALT TEXT HERE](https://soshace.com/wp-content/uploads/2021/01/879-png-3.png)](https://youtu.be/bBalsMWKDlY) 
+  <br>
+  ### *(Clique na imamge para ser redirecionado)*
+ 
+</div>
 
 ***
 
@@ -34,6 +38,10 @@
 User = user <br>
 Email = ' ' <br>
 Senha = qwerty <br>
+
+**Posue teste automatizado?**
+> No arquivo *tests.py* somente posue o teste de **POST**, pois infelizmente os ourtos metodos(PUT, GET e DELETE) retornaram erro 404 e mesmo pesqusiando intensamente, não consegui achar como concertar o erro. Então somente posue o metodo POST. <br>
+> Durante o video demonstrativo do codigo, é demonstrado de maneira manual o teste dos metodos **GET, POST, PUT e DELETE**.
 
 **Preciso baixar algo?**<br>
 Somente é necessario ter o Python instalado e uma IDE de sua preferencia.<br>
